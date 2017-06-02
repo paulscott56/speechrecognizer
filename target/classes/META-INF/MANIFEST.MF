@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rec
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: paul
+Implementation-Vendor-Id: paulscott56.rec
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/rec/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
